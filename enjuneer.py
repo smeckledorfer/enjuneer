@@ -5,12 +5,12 @@ import numpy as np
 st.set_page_config(layout="wide")
 st.title("Pruhfessional Enjuneer")
 
-st.subheader("Congragulations! If you are reading this, then you are officially a Pruhfessional Enjuneer $^{TM}$")
+st.subheader("Congratulations! If you are reading this, then you are officially a Pruhfessional Enjuneer $^{TM}$")
 st.write("")
 st.write("Note: This does not reflect any qualifications past, present, or future relating to licensure as a")
 st.write("Professional Engineer, as such a designation would be generally frowned upon and probably illegal.")
 st.write("")
-st.write("Below is an assortment of tools esigned to aid you on your quest as you pursue a career as a Prufessional Engineer")
+st.write("Below is an assortment of tools designed to aid you on your quest as you pursue a career as a Prufessional Engineer")
 st.write("")
 
 #
@@ -19,7 +19,7 @@ st.write("")
 st.subheader("Calculations involving $\pi$ ")
 
 
-st.write("$\pi$ is an irrational, nonterminating, non repeating mathematical constant that frequently arises in standard enjumeineering calculation ")
+st.write("$\pi$ is an irrational, nonterminating, non repeating mathematical constant that frequently arises in standard enjuneering calculation ")
 st.write("To perform sensitivity analyses, one must be able to quickly and accurately determine the value of $\pi$ to an arbitrary precision...")
 st.write("")
 
@@ -88,7 +88,7 @@ st.subheader("Decision Matrixing")
 
 st.write("Remember, when you are faced with a difficult decision, tabularizing your data into a decision matrix can help lead the way")
 st.write("")
-st.write("Take, for example this decision matrix to determine which humanities courses to take. (in megafucks given)")
+st.write("Take, for example this decision matrix to determine which humanities courses to take. (in kilofucks given)")
 
 st.write("")
 
