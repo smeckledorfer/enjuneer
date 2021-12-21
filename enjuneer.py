@@ -88,7 +88,7 @@ st.subheader("Decision Matrixing")
 
 st.write("Remember, when you are faced with a difficult decision, tabularizing your data into a decision matrix can help lead the way")
 st.write("")
-st.write("Take, for example this decision matrix to determine which humanities courses to take. (in kilofucks given)")
+st.write("Take, for example this decision matrix to determine which humanities courses to take based on $FuChS^{-1}$ (kilofucks*Credit hours per second)")
 
 st.write("")
 
