@@ -103,6 +103,7 @@ st.dataframe(zero_df)
 
 ############
 ############
-#Right about now... video
+st.header("Right about now...")
+st.subheader("A message from Bill While'd")
 ############
 ############
